@@ -2,6 +2,7 @@
   "name": "tailwind-styles-challenge",
   "version": "0.1.0",
   "description": "A web application starter template",
+  "homepage": "https://matiaspompilio.github.io/tailwind-styles-challenge/",
   "private": true,
   "engines": {
     "node": ">=18.15"
